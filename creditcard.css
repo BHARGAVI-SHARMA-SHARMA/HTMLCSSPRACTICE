@@ -1,0 +1,50 @@
+
+.full
+{
+    background-image: url("bg.png");
+    height: 15rem;
+    width: 25rem;
+    margin: auto;
+   
+}
+.nav
+{
+    height: 5rem;
+    width: 5rem;
+    display: flex;
+    margin-top: 2rem;
+}
+.nav h1
+{
+    color: white;
+    font-size: 15px;
+    margin-right: 12rem;
+    margin-top: 3rem;
+    font-family: sans-serif;
+}
+.nav img
+{
+    height: 3rem;
+    width: 3rem;
+    margin-top: 2rem;
+    margin-left: 1rem;
+    margin-right: 1rem;
+}
+.center
+{
+    height: 5rem;
+    width: 5rem;
+    margin-left: 1rem;
+    
+}
+.center h2
+{
+    color: white;
+    display: flex;
+    
+}
+.center h3
+{
+    display: inline-block;
+    color:white;
+}

@@ -1,0 +1,94 @@
+.full
+{
+    height: 530px;
+    width: 100%;
+    overflow: hidden;
+    margin: 0;
+    padding: 0;
+    background-image: url("https://images.unsplash.com/photo-1629105339532-791fe454238e?q=80&w=1000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTJ8fGNhbWVyYSUyMHdhbGxwYXBlcnxlbnwwfHwwfHx8MA%3D%3D");
+    background-position: center;
+    background-size: cover;
+    
+}
+nav 
+{
+    height: 100px;
+    width: 100px;
+    display:flex;
+}
+nav ul
+{
+    display: flex;
+    justify-content: space-evenly;
+    margin-left: 900px;
+}
+nav ul li
+{
+    padding: 5px;
+    list-style-type: none;
+}
+nav ul li a
+{
+   
+   text-decoration: none;
+   color: black;
+  
+
+}
+.content
+{
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+
+}
+.content p
+{
+    font-size: 50px;
+    color: white;
+}
+.buttons
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    outline: none;
+    
+}
+.btn1{
+    padding: 10px;
+    border: 2px solid white;
+    
+    margin: 4px;
+    font-size: 20px;
+    outline: none;
+}
+.btn1:hover
+{
+    cursor: pointer;
+    background-color: azure;
+
+    
+
+    
+}
+
+.btn2
+{
+    padding: 10px;
+    border: 2px solid white;
+    margin: 4px;
+    font-size: 20px;
+    outline: none;
+
+
+    
+
+
+
+}
+.btn2:hover
+{
+    cursor: pointer;
+    background-color: azure;
+}
